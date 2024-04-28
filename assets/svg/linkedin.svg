@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_66" data-name="Ellipse 66" cx="18.5" cy="18.5" r="18.5" transform="translate(0.028 -0.445)" fill="#c2c2c2"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-0.028 0.445)" clip-path="url(#clip-path)">
+    <g id="linkedin-svgrepo-com" transform="translate(0)">
+      <path id="Path_2124" data-name="Path 2124" d="M18.48,0A18.48,18.48,0,1,1,0,18.48,18.48,18.48,0,0,1,18.48,0Z" fill="#0e76a8"/>
+      <path id="Path_2125" data-name="Path 2125" d="M8.456,23.651h3.46V12.118H8.456ZM21.937,11.718a5.194,5.194,0,0,0-4.248,1.967V12.08H14.216V23.651h3.473V17.394a2.747,2.747,0,0,1,2.729-2.613c1.518,0,1.892,1.29,1.892,2.58V23.65h3.46V17.1C25.77,12.557,23.617,11.718,21.937,11.718ZM10.17,10.965A1.732,1.732,0,1,0,8.437,9.233,1.733,1.733,0,0,0,10.17,10.965Z" transform="translate(1.957 1.74)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

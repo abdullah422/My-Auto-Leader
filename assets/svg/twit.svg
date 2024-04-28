@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_67" data-name="Ellipse 67" cx="18.5" cy="18.5" r="18.5" transform="translate(-0.301 -0.445)" fill="#c2c2c2"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(0.301 0.445)" clip-path="url(#clip-path)">
+    <g id="twitter-svgrepo-com" transform="translate(0 0)">
+      <circle id="Ellipse_68" data-name="Ellipse 68" cx="18.5" cy="18.5" r="18.5" transform="translate(-0.302 -0.445)" fill="#55acee"/>
+      <g id="Group_223" data-name="Group 223" transform="translate(8.269 11.209)">
+        <path id="Path_2123" data-name="Path 2123" d="M28.242,11.17a8.813,8.813,0,0,1-2.537.695,4.429,4.429,0,0,0,1.943-2.443,8.843,8.843,0,0,1-2.8,1.072,4.421,4.421,0,0,0-7.527,4.029,12.539,12.539,0,0,1-9.1-4.616,4.422,4.422,0,0,0,1.367,5.9,4.386,4.386,0,0,1-2-.553c0,.019,0,.038,0,.056a4.42,4.42,0,0,0,3.544,4.331,4.434,4.434,0,0,1-1.995.076,4.422,4.422,0,0,0,4.126,3.068,8.917,8.917,0,0,1-6.54,1.829A12.562,12.562,0,0,0,26.051,14.027c0-.191,0-.382-.013-.571a8.957,8.957,0,0,0,2.2-2.286Z" transform="translate(-6.712 -9.099)" fill="#f1f2f2"/>
+      </g>
+    </g>
+  </g>
+</svg>

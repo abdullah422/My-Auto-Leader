@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="18.5" cy="18.5" r="18.5" transform="translate(0.371 -0.445)" fill="#c2c2c2"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-0.371 0.445)" clip-path="url(#clip-path)">
+    <g id="instagram-svgrepo-com_1_" data-name="instagram-svgrepo-com (1)" transform="translate(0 0)">
+      <circle id="Ellipse_58" data-name="Ellipse 58" cx="18.5" cy="18.5" r="18.5" transform="translate(0.371 -0.445)" fill="#6c27b3"/>
+      <path id="Path_2035" data-name="Path 2035" d="M33.574,15.744a32.037,32.037,0,0,1-7.031.051c-3.332-.256-8.2-1.794-10,1.282C13.665,22,15.086,28.3,15.758,33.883L25.774,43.9A19.032,19.032,0,0,0,43.752,25.922Z" transform="translate(-6.269 -6.414)" fill="#501a96"/>
+      <g id="Group_107" data-name="Group 107" transform="translate(7.586 7.586)">
+        <path id="Path_2036" data-name="Path 2036" d="M28.552,13.256H19.746a6.5,6.5,0,0,0-6.49,6.49v8.806a6.5,6.5,0,0,0,6.49,6.49h8.806a6.5,6.5,0,0,0,6.49-6.49V19.746a6.5,6.5,0,0,0-6.49-6.49Zm4.3,15.3a4.3,4.3,0,0,1-4.3,4.3H19.746a4.3,4.3,0,0,1-4.3-4.3V19.746a4.3,4.3,0,0,1,4.3-4.3h8.806a4.3,4.3,0,0,1,4.3,4.3v8.806Z" transform="translate(-13.256 -13.256)" fill="#fff"/>
+        <path id="Path_2037" data-name="Path 2037" d="M27.456,21.821a5.635,5.635,0,1,0,5.635,5.635,5.641,5.641,0,0,0-5.635-5.635Zm0,9.078A3.443,3.443,0,1,1,30.9,27.456,3.443,3.443,0,0,1,27.456,30.9Z" transform="translate(-16.563 -16.563)" fill="#fff"/>
+      </g>
+      <g id="Group_108" data-name="Group 108" transform="translate(18.437 7.586)">
+        <path id="Path_2038" data-name="Path 2038" d="M40.7,21.041a1.35,1.35,0,1,1-1.35-1.35,1.35,1.35,0,0,1,1.35,1.35Z" transform="translate(-33.659 -15.74)" fill="#d1d1d1"/>
+        <path id="Path_2039" data-name="Path 2039" d="M35.376,13.256H30.93v2.192h4.446a4.3,4.3,0,0,1,4.3,4.3v8.806a4.3,4.3,0,0,1-4.3,4.3H30.93v2.192h4.446a6.5,6.5,0,0,0,6.49-6.49V19.746A6.5,6.5,0,0,0,35.376,13.256Z" transform="translate(-30.93 -13.256)" fill="#d1d1d1"/>
+        <path id="Path_2040" data-name="Path 2040" d="M30.973,21.821H30.93v2.192h.043a3.443,3.443,0,0,1,0,6.886H30.93V33.09h.043a5.635,5.635,0,0,0,0-11.27Z" transform="translate(-30.93 -16.563)" fill="#d1d1d1"/>
+      </g>
+    </g>
+  </g>
+</svg>
